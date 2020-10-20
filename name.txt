@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 My name is sumit
+=======
+
+
+i dont want to tell u my name 
+>>>>>>> 20902151ccbf946a9f86555dccb4345ee567332b
